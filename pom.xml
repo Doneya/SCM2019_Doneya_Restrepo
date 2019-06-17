@@ -20,7 +20,6 @@
 			<version>3.0.1-b09</version>
 		</dependency>
 		
-		
 		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
